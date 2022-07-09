@@ -16,6 +16,9 @@ function App() {
         >
           Learn React
         </a>
+        <label className="text-5xl font-bold underline">
+          Hello world!
+        </label>
       </header>
     </div>
   );
